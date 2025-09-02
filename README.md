@@ -16,9 +16,12 @@ Metodologias Ágeis: Scrum, Kanban (experiência em planejamento de sprints, rev
 
 ## 📂 Projetos em Destaque
 
-- [**Portal Global Tigre S/A**](#) → Desenvolvimento do novo portal global da Tigre S/A, baseado em uma arquitetura escalável e com suporte nativo a 3 idiomas e operação em 10 países. 
-- [**Design System CRM Giver**](#) → Desenvolvimento de um Design System com tecnologias modernas e aplicação de boas práticas, garantindo maior performance, usabilidade e acessibilidade para a aplicação.
-- [**Plataforma Urus**](#) → Desenvolvimento de uma nova versão do produto, desde a diagramação até a implementação das telas, utilizando boas práticas de Clean Code, SOLID e Orientação a Objetos, desenvolvendo uma arquitetura mais moderna, organizada e escalável.
+- [**Plataforma Urus**](https://app.urusoficial.com.br) → Desenvolvimento de uma nova versão do produto, desde a diagramação até a implementação das telas, utilizando boas práticas de Clean Code, SOLID e Orientação a Objetos, desenvolvendo uma arquitetura mais moderna, organizada e escalável.
+- [**Portal Global Tigre S/A**](https://www.tigre.com.br) → Desenvolvimento do novo portal global da Tigre S/A, baseado em uma arquitetura escalável e com suporte nativo a 3 idiomas e operação em 10 países.
+- [**Portal B2B Tigre S/A**](https://e.tigre.com) → Desenvolvimento do novo portal B2B da Tigre S/A, construído sobre uma arquitetura moderna e escalável, com foco em performance, segurança e acessibilidade.
+- [**Design System CRM Giver**](https://cli.giver.com.br/administrador) → Desenvolvimento de um Design System com tecnologias modernas e aplicação de boas práticas, garantindo maior performance, usabilidade e acessibilidade para a aplicação.
+- [**Website Giver**](https://www.giver.com.br/) → Desenvolvimento do website da marca com foco em performance e boas práticas, resultando em nota A nas principais ferramentas de análise, como GTMetrix e PageSpeed Insights.
+
 
 
 ## 📫 Contato
