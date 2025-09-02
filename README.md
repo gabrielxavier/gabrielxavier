@@ -14,6 +14,13 @@ Desenvolvedor Front-end Sênior com mais de 13 anos de experiência em desenvolv
 Metodologias Ágeis: Scrum, Kanban (experiência em planejamento de sprints, revisão, retrospectivas e gestão de backlog)
 - Gestão de Projetos Ágeis: Jira, ClickUp, Trello, Taskrow
 
+## 📂 Projetos em Destaque
+
+- [**Portal Global Tigre S/A**](#) → Desenvolvimento do novo portal global da Tigre S/A, baseado em uma arquitetura escalável e com suporte nativo a 3 idiomas e operação em 10 países. 
+- [**Design System CRM Giver**](#) → Desenvolvimento de um Design System com tecnologias modernas e aplicação de boas práticas, garantindo maior performance, usabilidade e acessibilidade para a aplicação.
+- [**Plataforma Urus**](#) → Desenvolvimento de uma nova versão do produto, desde a diagramação até a implementação das telas, utilizando boas práticas de Clean Code, SOLID e Orientação a Objetos, desenvolvendo uma arquitetura mais moderna, organizada e escalável.
+
+
 ## 📫 Contato
 
 - 💼 [LinkedIn](https://linkedin.com/in/gabrielxavier)  
