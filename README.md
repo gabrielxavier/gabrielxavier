@@ -14,6 +14,7 @@ Desenvolvedor Front-end Sênior com mais de 13 anos de experiência em desenvolv
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" alt="Vuetify" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" alt="Cypress" width="50" height="50"/>
 </p>  
+
 - Frontend: Vue.js, Nuxt, HTML5, CSS3, SASS/LESS, JavaScript (ES6+), TypeScript, Pinia, Vuex, Vue Router, Composition API, Options API, Axios / Fetch, OAuth2 / JWT, CSR, SSR, SSG, Internacionalização (i18n), Localização (l10n), Vuetify, Bootstrap
 - Backend: Node.js, Express, Knex.js, WordPress, MySQL, PostgreSQL
 - APIs: REST API
@@ -22,7 +23,7 @@ Desenvolvedor Front-end Sênior com mais de 13 anos de experiência em desenvolv
 - Design e Prototipação: Figma, Adobe XD, Photoshop
 - Boas Práticas: SOLID, Clean Code, SEO, A11y, W3C, Core Web Vitals, Cross-browser compatibility, Responsive Design, Atomic Design, Mobile-first Design, Versionamento Semântico, Code Review
 - Ferramentas de Análise: Google Analytics, Google Tag Manager, Google Search Console, Hotjar
-Metodologias Ágeis: Scrum, Kanban (experiência em planejamento de sprints, revisão, retrospectivas e gestão de backlog)
+- Metodologias Ágeis: Scrum, Kanban (experiência em planejamento de sprints, revisão, retrospectivas e gestão de backlog)
 - Gestão de Projetos Ágeis: Jira, ClickUp, Trello, Taskrow
 
 ## 📂 Projetos em Destaque
