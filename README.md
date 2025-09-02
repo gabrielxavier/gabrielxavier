@@ -3,6 +3,19 @@
 Desenvolvedor Front-end Sênior com mais de 13 anos de experiência em desenvolvimento de aplicações web, especialista em Vue.js e com sólido conhecimento em Nuxt, HTML5, CSS3, JavaScript (ES6+), TypeScript, Pinia e Cypress. Possuo vivência em CI/CD, arquiteturas modernas (CSR, SSR, SSG), soluções serverless e integração com APIs REST. Tenho experiência consolidada na aplicação de boas práticas de SEO, Core Web Vitals, Acessibilidade (A11y), Clean Code e princípios SOLID, garantindo código de qualidade, performance e escalabilidade.
 
 ## 🛠️ Tech Stack
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt.js" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" alt="Vuetify" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" alt="Cypress" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+</p>  
 - Frontend: Vue.js, Nuxt, HTML5, CSS3, SASS/LESS, JavaScript (ES6+), TypeScript, Pinia, Vuex, Vue Router, Composition API, Options API, Axios / Fetch, OAuth2 / JWT, CSR, SSR, SSG, Internacionalização (i18n), Localização (l10n), Vuetify, Bootstrap
 - Backend: Node.js, Express, Knex.js, WordPress, MySQL, PostgreSQL
 - APIs: REST API
