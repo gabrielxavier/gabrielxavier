@@ -1,4 +1,7 @@
-## Hi there 👋
+👨‍💻 Gabriel Xavier
+Desenvolvedor Front-end Sênior | Vue.js, Nuxt, HTML5, CSS3, JavaScript (ES6+), TypeScript, Pinia, SSR, SEO, A11y, CI/CD, Cypress
+
+Sou Desenvolvedor Front-end Sênior com mais de 13 anos de experiência em desenvolvimento de aplicações web, especialista em Vue.js e com sólido conhecimento em Nuxt, HTML5, CSS3, JavaScript (ES6+), TypeScript, Pinia e Cypress. Possuo vivência em CI/CD, arquiteturas modernas (CSR, SSR, SSG), soluções serverless e integração com APIs REST. Tenho experiência consolidada na aplicação de boas práticas de SEO, Core Web Vitals, Acessibilidade (A11y), Clean Code e princípios SOLID, garantindo código de qualidade, performance e escalabilidade.
 
 <!--
 **gabrielxavier/gabrielxavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
